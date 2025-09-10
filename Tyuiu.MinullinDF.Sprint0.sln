@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{5E510387-C768-4613-882D-D0EEB01D43CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MinullinDF.Sprint0.Task0.V0", "Tyuiu.MinullinDF.Sprint0.Task0.V0\Tyuiu.MinullinDF.Sprint0.Task0.V0.csproj", "{7D188425-DB76-4168-82BA-3FFB98DA517C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MinullinDF.Sprint0.Task1.V0", "Tyuiu.MinullinDF.Sprint0.Task1.V0\Tyuiu.MinullinDF.Sprint0.Task1.V0.csproj", "{A5167F88-9DE2-4CFA-8FB8-DDD4047AC36B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{7D188425-DB76-4168-82BA-3FFB98DA517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D188425-DB76-4168-82BA-3FFB98DA517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D188425-DB76-4168-82BA-3FFB98DA517C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5167F88-9DE2-4CFA-8FB8-DDD4047AC36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5167F88-9DE2-4CFA-8FB8-DDD4047AC36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5167F88-9DE2-4CFA-8FB8-DDD4047AC36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5167F88-9DE2-4CFA-8FB8-DDD4047AC36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7D188425-DB76-4168-82BA-3FFB98DA517C} = {5E510387-C768-4613-882D-D0EEB01D43CD}
+		{A5167F88-9DE2-4CFA-8FB8-DDD4047AC36B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {191F56E2-6AD9-4554-BF71-F0416537B199}
