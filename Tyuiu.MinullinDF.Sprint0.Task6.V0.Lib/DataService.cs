@@ -4,7 +4,7 @@ namespace Tyuiu.MinullinDF.Sprint0.Task6.V0.Lib
 {
     public class DataService
     {
-        public static int AdditionArray(int[] list) 
+        public static object AdditionArray(int[] list) 
         {
             int a = 0;
             for (int i = 0; i < list.Length; i++)
@@ -14,7 +14,7 @@ namespace Tyuiu.MinullinDF.Sprint0.Task6.V0.Lib
             return a;
         }
 
-        public static int SubtractionArray(int[] list)
+        public static object SubtractionArray(int[] list)
         {
             int total = 0;
             int index = 0;
@@ -26,7 +26,7 @@ namespace Tyuiu.MinullinDF.Sprint0.Task6.V0.Lib
             return total;
         }
 
-        public static int MultiplicationArray(int[] list)
+        public static object MultiplicationArray(int[] list)
         {
             int total = 1;
             int index = 0;
